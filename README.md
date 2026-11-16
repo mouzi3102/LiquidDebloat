@@ -1,5 +1,11 @@
 # 小卸载 · LiquidDebloat
 
+[![Release](https://img.shields.io/github/v/release/mouzi3102/LiquidDebloat?label=下载&color=0b7dc4)](https://github.com/mouzi3102/LiquidDebloat/releases/latest)
+[![Build](https://github.com/mouzi3102/LiquidDebloat/actions/workflows/android.yml/badge.svg)](https://github.com/mouzi3102/LiquidDebloat/actions/workflows/android.yml)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+
+> 直接下载：[小卸载 2.0.2 APK](https://github.com/mouzi3102/LiquidDebloat/releases/download/v2.0.2/xiaoxiezai-2.0.2.apk)
+
 一个用**液态白玻璃视觉**做的 Android 预装应用卸载器。要求 root（Magisk / KernelSU），纯本地运行，不联网、不上传任何数据。
 
 > 默认是「安全卸载」：只对当前用户卸载，应用从桌面消失，系统分区里的文件仍保留，随时可恢复。
